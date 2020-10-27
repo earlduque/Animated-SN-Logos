@@ -26,3 +26,7 @@ Original blog post: [A little fun with logos](http://earlduque.com/2020/09/08/a-
 ### White Background, non-bouncing O ###
 
 ![img](servicenowwhitebglogo.gif)
+
+### Source File ###
+
+If you own Asesprite, I am providing the original source file here: https://github.com/earlduque/Animated-SN-Logos/raw/asesprite-file/servicenowlogo.aseprite
