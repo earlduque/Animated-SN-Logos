@@ -5,6 +5,20 @@ Animated pixelated logos I made for fun, feel free to use!
 
 Original blog post: [A little fun with logos](http://earlduque.com/2020/09/08/a-little-fun-with-logos.html)
 
+## New Branding
+
+### Transparent background, bouncing O, formatted for UI 16 ###
+
+<div style="background-color:#2a3e41">
+    <img src="servicenowbouncetransparentlogowhitenext.gif">
+</div>
+
+### Transparent background, bouncing O ###
+
+![img](servicenowbouncetransparentlogoblacknext.gif)
+
+## Old Branding
+
 ### Transparent background, bouncing O, formatted for UI 16 ###
 
 <div style="background-color:#2a3e41">
