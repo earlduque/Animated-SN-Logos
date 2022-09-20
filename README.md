@@ -3,6 +3,8 @@ Animated pixelated logos I made for fun, feel free to use!
 
 ![UI16 demo](ui16demo.gif)
 
+![UI16 demo](nextlogo.gif)
+
 Original blog post: [A little fun with logos](http://earlduque.com/2020/09/08/a-little-fun-with-logos.html)
 
 ## New Branding
